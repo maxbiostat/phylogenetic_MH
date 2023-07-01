@@ -1,6 +1,7 @@
 # Metropolis-Hastings-type sampling of phylogenetic distributions
 
-![image](https://github.com/maxbiostat/phylogenetic_MH/assets/2875083/83cf4f1a-f88a-49fc-b98a-b657c8aa5ebb)
+![image](https://github.com/maxbiostat/phylogenetic_MH/assets/2875083/226d07b4-5ba7-4e9d-9fc6-8354ae3b234c)
+
 
 ![image](https://github.com/maxbiostat/phylogenetic_MH/assets/2875083/820c504d-7080-45ec-965b-b1387b2ce2bc)
 
