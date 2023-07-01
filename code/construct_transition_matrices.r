@@ -9,9 +9,7 @@ export_transition_matrices <- function(n,
     paste0(
       "../derived_data/transition_matrices/MH_matrix_n=",
       n,
-      "_rho=",
-      0,
-      ".RData"
+      "_rho=0.00.csv"
     ),
     row.names = FALSE
   )
