@@ -15,3 +15,4 @@ Needs
 remotes::install_github("maxbiostat/PhyloMarkovChains")
 ```
 to work. 
+For more on the workflow of the code, see the [README](https://github.com/maxbiostat/phylogenetic_MH/blob/main/code/README.md) in the code folder.
