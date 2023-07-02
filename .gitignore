@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Project-specific stuff
+
+derived_data/transition_matrices/*.csv
