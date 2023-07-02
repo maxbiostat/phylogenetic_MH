@@ -16,11 +16,11 @@ K <- ncol(the.mats[[1]])
 
 Eps <- 0.05 * 1/K
 
-times <- lapply(the.mats, function(m){
+times <- parallel::mclapply(the.mats, function(m){
   PhyloMarkovChains::t_mix_bounds(Tr_mat = m,
                                   varepislon = Eps,
                                   pi_min = 1/K)
-})
+}, mc.cores = 10)
 
 
 times.df <- data.frame(
