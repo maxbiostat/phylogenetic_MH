@@ -1,3 +1,5 @@
+library(PhyloMarkovChains)
+
 n <- 4
 
 outFolder <- paste0("../derived_data/chains_n=", n)
