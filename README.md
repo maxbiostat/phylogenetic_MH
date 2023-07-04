@@ -9,6 +9,8 @@
 
 This repository will hold code and data for a large-ish experiment on MH for phylogenetic trees for small numbers of taxa. For `n=4, 5, 6` and `7` taxa, we will run neighbourhood-ratio-based MH and a lazyfied version with various values of the lazy coefficient `rho`.
 
+For each pair of `rho` and `n` we ran `J = 500` chains of `M = 10,000` iterations. To compute the clade indicators we took out a burnin of `b = 1000` and used [this](https://github.com/maxbiostat/phylogenetic_MH/blob/main/code/get_clademaps.sh) script to process the resulting `.trees` files, which are not themselves present in this repository due to being too large. 
+
 ---
 Needs
 ```r
