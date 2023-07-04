@@ -51,3 +51,5 @@ rsconnect/
 # Project-specific stuff
 
 derived_data/transition_matrices/*.csv
+*.cmap
+*.trees
