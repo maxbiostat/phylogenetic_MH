@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/661089501.svg)](https://zenodo.org/badge/latestdoi/661089501)
+
 # Metropolis-Hastings-type sampling of phylogenetic distributions
 
 ![image](https://github.com/maxbiostat/phylogenetic_MH/assets/2875083/226d07b4-5ba7-4e9d-9fc6-8354ae3b234c)
